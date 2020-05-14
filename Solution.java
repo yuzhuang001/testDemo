@@ -19,6 +19,7 @@ import java.util.*;
 //}
 class Solution {
     //修改第一次
+    //修改第2次
     public List<Integer> countSmaller(int[] nums) {
         Integer[] ret = new Integer[nums.length];
         Arrays.fill(ret, 0);
